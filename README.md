@@ -12,9 +12,10 @@ This repository provides an overview of my DIY humanoid robot head project, whic
 
 ## Images and Videos
 ### Images
-![Robot Head Front View](path_to_your_image_front_view.jpg)
-![Robot Head Side View](path_to_your_image_side_view.jpg)
-![Servo Motor Setup](path_to_your_image_servo_setup.jpg)
+![Robot Head Front View](https://github.com/RashmikaWajrapani/Nexis-Robot/blob/main/IMG_4144.jpg)
+![Robot Head Front View 1](https://github.com/RashmikaWajrapani/Nexis-Robot/blob/main/IMG_4150.jpg)
+![Robot Head Side View](https://github.com/RashmikaWajrapani/Nexis-Robot/blob/main/IMG_4152.jpg)
+
 
 ### Video
 Check out the video showcasing the robot in action: [LinkedIn Link](https://www.linkedin.com/feed/update/urn:li:activity:7203099736407511040/)
